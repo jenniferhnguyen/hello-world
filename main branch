@@ -1,0 +1,16 @@
+name: "Jennifer Nguyen, Biostatician"
+title: "Jennifer Nguyen, Biostatician"
+base_url: https://laderast.github.io/
+description: |
+  Website for Ted Laderas, PhD
+exclude: ["README.md", "README.html"]
+theme: theme.css
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Background
+      href: background.html
+    - text: "CV"
+      href: href: https://jenniferhnguyen.github.io/cv/
